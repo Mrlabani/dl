@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/bot", "destination": "/api/bot" },
+    { "source": "/download", "destination": "/api/download" }
+  ]
+}
